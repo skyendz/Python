@@ -1,0 +1,7 @@
+# Food Retail Analytics
+In this Python project, I did the below:
+ 1. Retrieved and combined datasets of a restaurant
+ 2. Perform exploratory data analysis to understand my dataset
+ 3. Answered business-related questions by further manipulating the dataframes
+ 4. Prepared the dataset for a machine learning model
+ 5. Perform predictive analysis via a machine learning model
