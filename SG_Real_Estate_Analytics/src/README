@@ -1,1 +1,12 @@
 # Singapore Real Estate Analytics Project
+
+In this Python project, I did the below: 
+ 1. Retrieved and combined datasets of public housing resale data in Singapore
+ 2. Cleaned the data from part 1
+ 3. Perform exploratory data analysis based on the clean dataset
+ 4. Dummify features in preparation of machine learning
+ 5. Apply machine learning techniques to train a model to predict housing resale prices
+ 
+ From #1 to #3, I also:
+  1. Came up with a PowerBI report with several interactive dashboards to allow investors to more easily visualize the dataset
+  2. Summarized some findings in a form of a ppt deck to be used as an investor's report
